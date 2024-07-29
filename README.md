@@ -52,9 +52,6 @@
 ### Current Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christine-code-crypto&theme=algolia&hide_border=true)
 
-### Longest Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christine-code-crypto&theme=algolia&hide_border=true&mode=longest)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christine-code-crypto&layout=compact&theme=radical)
 
 ## GitHub Trophies
