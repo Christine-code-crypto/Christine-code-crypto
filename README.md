@@ -60,6 +60,14 @@
 ## Random Funny Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&category=programming)
 
+## Random Funny Dev Quote
+
+<div style="border: 2px solid #f8b400; border-radius: 10px; padding: 15px; background-color: #fff5e6; box-shadow: 2px 2px 12px #f8b400;">
+  <p style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; font-size: 16px; color: #333; text-align: center;">
+    "There are two ways to write error-free programs; only the third one works."
+  </p>
+</div>
+
 
 
 
