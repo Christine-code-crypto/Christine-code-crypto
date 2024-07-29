@@ -46,6 +46,15 @@
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christine-code-crypto&show_icons=true&theme=radical)
 
+### Total Contributions
+![Total Contributions](https://komarev.com/ghpvc/?username=Christine-code-crypto&style=flat-square&color=blue)
+
+### Current Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christine-code-crypto&theme=algolia&hide_border=true)
+
+### Longest Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christine-code-crypto&theme=algolia&hide_border=true&mode=longest)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christine-code-crypto&layout=compact&theme=radical)
 
 ## GitHub Trophies
